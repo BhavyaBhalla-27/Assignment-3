@@ -20,3 +20,10 @@ The below is the input which will be given to TOPSIS.
 Hence we can conclude that Model-3 named "t5-base-fr-sum-cnndm" performed best in our case.
 <br>
 <a href="https://huggingface.co/plguillou/t5-base-fr-sum-cnndm">View Model on Hugging Face</a>
+
+## **Details**
+Name - Bhavya Bhalla 
+<br>
+Roll Number - 102103345
+<br>
+Subgroup - 3CO12
