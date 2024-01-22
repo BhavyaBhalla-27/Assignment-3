@@ -1,6 +1,7 @@
 # Title : Applying TOPSIS to find best trained model for Text Summarization
 
 ## **1. Methodology**
+<img src = "https://github.com/BhavyaBhalla-27/Assignment-3/assets/114859167/f8d09486-4c3e-4638-bfdf-c721023fdc0d" width = "100%" height="100%" />
 
 ## **2. Description**
 <img src = "https://github.com/BhavyaBhalla-27/Assignment-3/assets/114859167/5c93ac45-4298-47dc-aede-7f6607101901" width = "100%" height="100%" />
